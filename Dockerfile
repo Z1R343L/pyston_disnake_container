@@ -4,4 +4,4 @@ RUN pyston3 -m pip install -U pip setuptools wheel -vv
 COPY . .
 RUN apt-get install rustc -y
 RUN pyston3 -m pip install -r requirements.txt -vv
-RUN prisma
+RUN cd $HOME/.local/bin && ./prisma --help
