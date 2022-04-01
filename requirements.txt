@@ -4,3 +4,4 @@ git+https://github.com/Chromosomologist/disnake@fuckinglistenersaaaaaaa
 git+https://github.com/Chromosomologist/disnake-ext-components
 disnake-jishaku[procinfo]==2.6.5
 uvloop==0.16.0
+prisma==0.6.3
