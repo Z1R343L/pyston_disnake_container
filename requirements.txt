@@ -1,6 +1,6 @@
 aiohttp[speedups]>=3.7.0,<3.9.0
 orjson==3.6.7
-git+https://github.com/Chromosomologist/disnake@fuckinglistenersaaaaaaa
+git+https://github.com/disnakedev/disnake
 git+https://github.com/Chromosomologist/disnake-ext-components
 disnake-jishaku[procinfo]==2.6.5
 uvloop==0.16.0
